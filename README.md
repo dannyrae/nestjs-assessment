@@ -4,7 +4,7 @@ A simple RESTful API for a grocery delivery service built with [NestJS](https://
 
 ## Features
 
-* User authentication with JWT (without Passport)
+* User authentication with JWT
 * Add, update, delete, and retrieve grocery items
 * Add, update, delete, and view cart items
 * Protected routes for authorized access
